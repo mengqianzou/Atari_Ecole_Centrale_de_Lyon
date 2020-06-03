@@ -1,4 +1,4 @@
-Ce qui a été fait pour tester le composant A2601
+Pour tester le composant A2601
 
 CREATION DU PROJET VIVADO :
 	- ajouter tous les fichiers VHDL de chaque dossier (A2601, A6500(cpu),  A6532(Riot), TIA) sauf
